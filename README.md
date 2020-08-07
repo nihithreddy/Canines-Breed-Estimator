@@ -42,11 +42,11 @@ __NOTE:__ In the notebook, you will need to train CNNs in PyTorch.  If your CNN 
 
 
 
-## (Optionally) Accelerating the Training Process 
+## (Optional) Accelerating the Training Process 
 
 If your code is taking too long to run, you will need to either reduce the complexity of your chosen CNN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
 
 #### Amazon Web Services
 
-You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money, but enrolled students should see a coupon code in their student `resources`.)
+You can use Amazon Web Services to launch an EC2 GPU instance. 
 
